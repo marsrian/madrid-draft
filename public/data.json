@@ -1,0 +1,74 @@
+[
+    {
+        "id": "01",
+        "name": "Cristiano Ronaldo",
+        "Price": 100,
+        "img": "https://i.ibb.co/1XN8yxv/pngwing-com-1.png"
+    },
+    {
+        "id": "02",
+        "name": "Karim Benzama",
+        "Price": 120,
+        "img": "https://i.ibb.co/jTcvdvt/benzema.jpg"
+    },
+    {
+        "id": "03",
+        "name": "Vinicius Jr.",
+        "Price": 200,
+        "img": "https://i.ibb.co/VwqzCJF/Vinicius.jpg"
+    },
+    {
+        "id": "04",
+        "name": "Fede Valvarde",
+        "Price": 70,
+        "img": "https://i.ibb.co/5sd1PM4/valverde.jpg"
+    },
+    {
+        "id": "05",
+        "name": "Rodrygo",
+        "Price": 130,
+        "img": "https://i.ibb.co/wp5yFy6/rodrygo.jpg"
+    },
+    {
+        "id": "06",
+        "name": "Toni Kroos",
+        "Price": 110,
+        "img": "https://i.ibb.co/v3Ks1T5/Kroos.jpg"
+    },
+    {
+        "id": "07",
+        "name": "Sergio Ramos",
+        "Price": 150,
+        "img": "https://i.ibb.co/xmbryZc/pngwing-com.png"
+    },
+    {
+        "id": "08",
+        "name": "Marcelo",
+        "Price": 100,
+        "img": "https://i.ibb.co/9h1Jr1j/marcelo.jpg"
+    },
+    {
+        "id": "09",
+        "name": "Mendy",
+        "Price": 50,
+        "img": "https://i.ibb.co/mBfbTJp/Mendy.jpg"
+    },
+    {
+        "id": "10",
+        "name": "Camavinga",
+        "Price": 80,
+        "img": "https://i.ibb.co/3pDQ5NB/kamabinga.jpg"
+    },
+    {
+        "id": "11",
+        "name": "Casemira",
+        "Price": 90,
+        "img": "https://i.ibb.co/mBZGLBX/favpng-casemiro-real-madrid-c-f-football-player.png"
+    },
+    {
+        "id": "12",
+        "name": "ISco",
+        "Price": 50,
+        "img": "https://i.ibb.co/k5wtKVf/favpng-isco-2018-fifa-world-cup-real-madrid-c-f-jersey-football.png"
+    }
+]
