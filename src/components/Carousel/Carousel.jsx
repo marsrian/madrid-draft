@@ -1,9 +1,9 @@
 import React from 'react';
-import Slider1 from '../../images/1.jpg';
-import Slider2 from '../../images/2.jpg';
-import Slider3 from '../../images/3.jpg';
-import Slider4 from '../../images/4.jpg';
-import Slider5 from '../../images/5.jpg';
+// import Slider1 from '../../images/1.jpg';
+// import Slider2 from '../../images/2.jpg';
+// import Slider3 from '../../images/3.jpg';
+// import Slider4 from '../../images/4.jpg';
+// import Slider5 from '../../images/5.jpg';
 
 const Carousel = () => {
     return (
@@ -12,23 +12,23 @@ const Carousel = () => {
             <div className="relative h-56 overflow-hidden rounded-lg md:h-screen">
                 {/* <!-- Item 1 --> */}
                 <div className="hidden duration-700 ease-in-out" data-carousel-item>
-                    <img src={Slider1} className="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="..." />
+                    <img src="https://i.ibb.co/Wx85m4L/wp8928474-madrid-2021-wallpapers.jpg" className="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="..." />
                 </div>
                 {/* <!-- Item 2 --> */}
                 <div className="hidden duration-700 ease-in-out" data-carousel-item>
-                    <img src={Slider2} className="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="..." />
+                    <img src="https://i.ibb.co/mX0Dw8w/2.jpg" className="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="..." />
                 </div>
                 {/* <!-- Item 3 --> */}
                 <div className="hidden duration-700 ease-in-out" data-carousel-item>
-                    <img src={Slider3} className="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="..." />
+                    <img src="https://i.ibb.co/0JGk8FM/3.jpg" className="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="..." />
                 </div>
                 {/* <!-- Item 4 --> */}
                 <div className="hidden duration-700 ease-in-out" data-carousel-item>
-                    <img src={Slider4} className="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="..." />
+                    <img src="https://i.ibb.co/ggH4vCG/4.jpg" className="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="..." />
                 </div>
                 {/* <!-- Item 5 --> */}
                 <div className="hidden duration-700 ease-in-out" data-carousel-item>
-                    <img src={Slider5} className="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="..." />
+                    <img src="https://i.ibb.co/bWCCyGy/5.jpg" className="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="..." />
                 </div>
             </div>
             {/* <!-- Slider indicators --> */}
