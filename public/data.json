@@ -1,74 +1,86 @@
 [
     {
-        "id": "01",
+        "id": "1",
         "name": "Cristiano Ronaldo",
         "Price": 100,
-        "img": "https://i.ibb.co/1XN8yxv/pngwing-com-1.png"
+        "img": "https://i.ibb.co/1XN8yxv/pngwing-com-1.png",
+        "quantity": 0
     },
     {
-        "id": "02",
+        "id": "2",
         "name": "Karim Benzama",
         "Price": 120,
-        "img": "https://i.ibb.co/jTcvdvt/benzema.jpg"
+        "img": "https://i.ibb.co/jTcvdvt/benzema.jpg",
+        "quantity": 0
     },
     {
-        "id": "03",
+        "id": "3",
         "name": "Vinicius Jr.",
         "Price": 200,
-        "img": "https://i.ibb.co/VwqzCJF/Vinicius.jpg"
+        "img": "https://i.ibb.co/VwqzCJF/Vinicius.jpg",
+        "quantity": 0
     },
     {
-        "id": "04",
+        "id": "4",
         "name": "Fede Valvarde",
         "Price": 70,
-        "img": "https://i.ibb.co/5sd1PM4/valverde.jpg"
+        "img": "https://i.ibb.co/5sd1PM4/valverde.jpg",
+        "quantity": 0
     },
     {
-        "id": "05",
+        "id": "5",
         "name": "Rodrygo",
         "Price": 130,
-        "img": "https://i.ibb.co/wp5yFy6/rodrygo.jpg"
+        "img": "https://i.ibb.co/wp5yFy6/rodrygo.jpg",
+        "quantity": 0
     },
     {
-        "id": "06",
+        "id": "6",
         "name": "Toni Kroos",
         "Price": 110,
-        "img": "https://i.ibb.co/v3Ks1T5/Kroos.jpg"
+        "img": "https://i.ibb.co/v3Ks1T5/Kroos.jpg",
+        "quantity": 0
     },
     {
-        "id": "07",
+        "id": "7",
         "name": "Sergio Ramos",
         "Price": 150,
-        "img": "https://i.ibb.co/xmbryZc/pngwing-com.png"
+        "img": "https://i.ibb.co/xmbryZc/pngwing-com.png",
+        "quantity": 0
     },
     {
-        "id": "08",
+        "id": "8",
         "name": "Marcelo",
         "Price": 100,
-        "img": "https://i.ibb.co/9h1Jr1j/marcelo.jpg"
+        "img": "https://i.ibb.co/9h1Jr1j/marcelo.jpg",
+        "quantity": 0
     },
     {
-        "id": "09",
+        "id": "9",
         "name": "Mendy",
         "Price": 50,
-        "img": "https://i.ibb.co/mBfbTJp/Mendy.jpg"
+        "img": "https://i.ibb.co/mBfbTJp/Mendy.jpg",
+        "quantity": 0
     },
     {
         "id": "10",
         "name": "Camavinga",
         "Price": 80,
-        "img": "https://i.ibb.co/3pDQ5NB/kamabinga.jpg"
+        "img": "https://i.ibb.co/3pDQ5NB/kamabinga.jpg",
+        "quantity": 0
     },
     {
         "id": "11",
         "name": "Casemira",
         "Price": 90,
-        "img": "https://i.ibb.co/mBZGLBX/favpng-casemiro-real-madrid-c-f-football-player.png"
+        "img": "https://i.ibb.co/mBZGLBX/favpng-casemiro-real-madrid-c-f-football-player.png",
+        "quantity": 0
     },
     {
         "id": "12",
-        "name": "ISco",
+        "name": "Isco",
         "Price": 50,
-        "img": "https://i.ibb.co/k5wtKVf/favpng-isco-2018-fifa-world-cup-real-madrid-c-f-jersey-football.png"
+        "img": "https://i.ibb.co/k5wtKVf/favpng-isco-2018-fifa-world-cup-real-madrid-c-f-jersey-football.png",
+        "quantity": 0
     }
 ]
